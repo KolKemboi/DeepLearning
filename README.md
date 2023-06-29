@@ -1,10 +1,9 @@
 
-# Face Recognition Using Tensorflow and OpenCV
+# Deep Learning
 
-After manipulating my friends to let me take videos of Them, I managed to use OpenCV to convert from a video file to an image sequences of them.
-Due to privacy, I will not be sharing the datasets, but you are welcome to cloning the model and replacing the appropriate parts to suite your project.
+This repository contains code for deep learning models built using Tensorflow and Pytorch.
+It is majorly based around convolution Neural Networks, hence the extensive use of OpenCV.
 
-I have linked one of the participants github in the acknowledgemets : Kennedy Karuri
 
 ## Acknowledgements
 
@@ -14,5 +13,5 @@ I have linked one of the participants github in the acknowledgemets : Kennedy Ka
 
 **Data Preprocessing and Augmentation:** OpenCV
 
-**Deep Learning Framework:** Tensorflow
+**Deep Learning Framework:** Tensorflow and Pytorch
 
