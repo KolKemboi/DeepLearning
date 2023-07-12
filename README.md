@@ -9,5 +9,9 @@ It is majorly based around convolution Neural Networks, hence the extensive use 
 
 **Data Preprocessing and Augmentation:** OpenCV
 
+
+
+
+
 **Deep Learning Framework:** Tensorflow and Pytorch
 
