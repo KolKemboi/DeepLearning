@@ -1,5 +1,7 @@
 import cv2
 import os
+import pathlib
+import sys
 
 DIR = "data"
 files = os.listdir(DIR) 
