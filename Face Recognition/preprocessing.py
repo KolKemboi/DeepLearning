@@ -3,6 +3,9 @@ import os
 
 filepath = "C:\\Users\\USER\\Documents\\datasets\\Face Dataset\\Face Dataset"
 
+
+
+
 write_to = "C:\\Users\\USER\\Documents\\datasets\\Face Dataset"
 
 folders = "allo,john,kenna,kevo,ndichu".split(",")
