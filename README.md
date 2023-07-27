@@ -9,8 +9,3 @@ It is majorly based around convolution Neural Networks, hence the extensive use 
 
 **Data Preprocessing and Augmentation:** Open Computer Vision
 **Deep Learning Framework:** Tensorflow and Pytorch
-
-
-
-
-
