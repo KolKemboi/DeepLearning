@@ -3,6 +3,9 @@ import os
 import pathlib
 import sys
 
+
+
+
 DIR = "data"
 files = os.listdir(DIR) 
 folders = "allo,john,kenna,kevo,ndichu".split(",")
